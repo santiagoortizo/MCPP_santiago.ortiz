@@ -13,3 +13,8 @@ No obstante, estos modelos deben usarse con precaución, en la medida que determ
 - Así mismo, una libreria bastante útil fue "rDEA" de RStudio, con la cual pude estimar el modelo y los parámetros de eficiencia. 
 
 ## Resultados
+- Las IPS (E.S.E) Nivel II de los distintos departamentos de Colombia aumentaron la eﬁciencia relativa con la que proveían servicios como cirugías y atención en partos, tanto vaginales como cesáreas. 
+- Algunos departamentos que son considerados pobres pueden tener altas tasas de eﬁciencia debido a que con muy pocos recursos y capacidades atienden un gran número de pacientes. 
+- Los modelos DEA son útiles para estimar el número de servicios promedio que debe aumentar una ﬁrma para ser más eﬁciente.
+
+![Image description](link-to-image)
