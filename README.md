@@ -17,4 +17,4 @@ No obstante, estos modelos deben usarse con precaución, en la medida que determ
 - Algunos departamentos que son considerados pobres pueden tener altas tasas de eﬁciencia debido a que con muy pocos recursos y capacidades atienden un gran número de pacientes. 
 - Los modelos DEA son útiles para estimar el número de servicios promedio que debe aumentar una ﬁrma para ser más eﬁciente.
 
-![Image description](link-to-image)
+![Image description](https://github.com/santiagoortizo/MCPP_santiago.ortiz/blob/master/Proyecto%20Final/Resultados/Im%C3%A1genes/Nivel%20II%20-%202017.png)
