@@ -9,7 +9,7 @@ No obstante, estos modelos deben usarse con precaución, en la medida que determ
 
 ## Técnicas empleadas
 - La base de datos empleada proviene del Sistema de Gestión Hospitalaria. Apesar de que esta base esta abierta al público, su manipulación no es tan sencilla. Para poder acceder a los datos hay que hacer un proceso de Copy & Paste constante. Si uno quisiera extraer los datos desde el 2002 hasta el 2018 para todos los departamentos del país incluyendo Bogotá, tendría que disponer de aproximadamente 34 horas  de fluido Ctrl + C y Ctrl + V (y de muchos clickeos). Es por esto, que se desarrollo un código de Web Scraping el cual recorriera la página web en donde se encuentran los datos y los extrayera. Simulando así un acto de Copy & Paste. (Nota: hacer el código no llevo más de 34 horas. Sin embargo, si así hubiese sido, habrián sido 34 horas de reto constante y de aprendizaje)
-- Para este propósito, se utilizaron librerias como "requests", "BeautifulSoup", "Pandas", "Regex", "Selenium", entre otras (Python).
+- Para este propósito, se utilizaron librerias como "requests", "BeautifulSoup", "Pandas", "Selenium", entre otras (Python).
 - Así mismo, una libreria bastante útil fue "rDEA" de RStudio, con la cual pude estimar el modelo y los parámetros de eficiencia. 
 
 ## Resultados
