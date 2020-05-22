@@ -8,76 +8,8 @@ El Análisis Envolvente de Datos (Data Envelopment Analysis - DEA) ha sido ampli
 No obstante, estos modelos deben usarse con precaución, en la medida que determinar la eficiencia de los sistemas de salud es un proceso complejo, debido a la existencia de problemas metodológicos. En principio, el estado de la salud de la ciudad puede influye en los niveles de productividad, así como el nivel de bienestar y situación socio-económica que presenten sus ciudadanos.
 
 ## Técnicas empleadas
-- as
+- La base de datos empleada proviene del Sistema de Gestión Hospitalaria. Apesar de que esta base esta abierta al público, su manipulación no es tan sencilla. Para poder acceder a los datos hay que hacer un proceso de Copy & Paste constante. Si uno quisiera extraer los datos desde el 2002 hasta el 2018 para todos los departamentos del país incluyendo Bogotá, tendría que disponer de aproximadamente 34 horas  de fluido Ctrl + C y Ctrl + V (y de muchos clickeos). Es por esto, que se desarrollo un código de Web Scraping el cual recorriera la página web en donde se encuentran los datos y los extrayera. Simulando así un acto de Copy & Paste. (Nota: hacer el código no llevo más de 34 horas. Sin embargo, si así hubiese sido, habrián sido 34 horas de reto constante y de aprendizaje)
+- Para este propósito, se utilizaron librerias como "requests", "BeautifulSoup", "Pandas", "Regex", "Selenium", entre otras (Python).
+- Así mismo, una libreria bastante útil fue "rDEA" de RStudio, con la cual pude estimar el modelo y los parámetros de eficiencia. 
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+## Resultados
