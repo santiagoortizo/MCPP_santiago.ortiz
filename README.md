@@ -3,17 +3,12 @@
 
 Este proyecto explica de manera superficial el uso del modelo de programación lineal DEA para encontrar ratios de eficiencia relativa en las IPS de los distintos departamentos de Colombia. Así mismo, en el repositorio podrá encontrar información valiosa para obtener bases de datos que no se encuentran en un formato adecuado para su uso (ej. tablas HTML). Para descargar la información se utilizó Web Scraping.
 
-## Getting Started
+## Modelo DEA
+El Análisis Envolvente de Datos (Data Envelopment Analysis - DEA) ha sido ampliamente utilizado en investigaciones sobre el sector salud, analizando principalmente como los cambios en distintas regulaciones han afectado la eficiencia de estos sistemas y como esto ha impactado el gasto público en salud. Bajo la lógica de medición de eficiencia existen distintos métodos clasificados en dos grupos: paramétricos y no paramétricos. Los primeros son aquellos que tienen una forma funcional de producción definida a priori; mientras que los segundos no asumen la existencia de dicha forma funcional. El DEA es un método de programación lineal (simplex) que mide la eficiencia económica relativa de una firma a una frontera de eficiencia construida con las firmas más eficientes. Esta metodología permite identificar oportunidades de ahorro de recursos o mejora en la productividad de cada una de las firmas que se encuentran por debajo de la frontera productiva eficiente.
+No obstante, estos modelos deben usarse con precaución, en la medida que determinar la eficiencia de los sistemas de salud es un proceso complejo, debido a la existencia de problemas metodológicos. En principio, el estado de la salud de la ciudad puede influye en los niveles de productividad, así como el nivel de bienestar y situación socio-económica que presenten sus ciudadanos.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+## Técnicas empleadas
+- as
 
 ### Installing
 
