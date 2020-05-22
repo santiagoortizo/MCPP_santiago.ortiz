@@ -17,4 +17,14 @@ No obstante, estos modelos deben usarse con precaución, en la medida que determ
 - Algunos departamentos que son considerados pobres pueden tener altas tasas de eﬁciencia debido a que con muy pocos recursos y capacidades atienden un gran número de pacientes. 
 - Los modelos DEA son útiles para estimar el número de servicios promedio que debe aumentar una ﬁrma para ser más eﬁciente.
 
-![Ratio eficiencia de un modelo Output orientado con retornos variables a escala. Nivel II-2017](https://github.com/santiagoortizo/MCPP_santiago.ortiz/blob/master/Proyecto%20Final/Resultados/Im%C3%A1genes/Nivel%20II%20-%202017.png)
+El modelo en cuestión es un modelo output orientado con retornos variables a escala. 
+El primer mapa refleja cuales fueron los ratios de eficiencia asignados a cada departamento. Las IPS analizadas fueron las de Nivel II (2017)
+
+![Image description](https://github.com/santiagoortizo/MCPP_santiago.ortiz/blob/master/Proyecto%20Final/Resultados/Im%C3%A1genes/Nivel%20II%20-%202017.png)
+
+- Nivel II 2018
+![Image description](https://github.com/santiagoortizo/MCPP_santiago.ortiz/blob/master/Proyecto%20Final/Resultados/Im%C3%A1genes/Nivel%20II%20-%202018.png)
+
+- En la presentación no está, pero el modelo se corrió para los tres niveles. Un resultado del modelo en el nivel 3 en el año 2018.
+Note que no hay datos para todos los departamentos. 
+![Image description](https://github.com/santiagoortizo/MCPP_santiago.ortiz/blob/master/Proyecto%20Final/Resultados/Im%C3%A1genes/Nivel%20III%20-%202018.png)
